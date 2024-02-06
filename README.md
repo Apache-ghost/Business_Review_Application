@@ -2,6 +2,8 @@
 
 Welcome to the Business Review Application! This application allows users to explore and review businesses in their area. Below are the key functionalities of the app:
 
+![b1](https://github.com/Apache-ghost/Business_Review_Application/assets/125418589/9817ffe0-3a94-481b-b9a2-49c3c9704898)
+
 ## Table of Contents
 1. [Functionalities](#functionalities)
 2. [Getting Started](#getting-started)
@@ -13,14 +15,30 @@ Welcome to the Business Review Application! This application allows users to exp
 
 1. **User Registration:** Users can create an account by providing their basic information such as username, email, and password.
 2. **User Login:** Authenticate users' credentials to allow them to log in to their accounts.
-3. **User Logout:** Provide the functionality for users to log out of their accounts.
-4. **User Profile Management:** Allow users to view and update their profile information, such as their photo.
+   
+   ![b5](https://github.com/Apache-ghost/Business_Review_Application/assets/125418589/f4ecef3a-32a4-452a-a5f4-ddd24c69d37d)
+
+4. **User Logout:** Provide the functionality for users to log out of their accounts.
+
 5. **Business Listing:** Display a list of businesses with their details, including name, address, and category.
-6. **Business Search:** Enable users to search for businesses based on different criteria such as name, category, or location.
-7. **Review Submission:** Allow users to submit reviews for businesses they have interacted with. This includes providing a rating (e.g., on a scale of 1 to 5 stars) and leaving a comment.
-8. **Review Management:** Provide functionality for users to manage their own reviews, including editing or deleting them.
-9. **User Authentication and Authorization:** Ensure that only authenticated users can access certain functionalities, and restrict access to sensitive operations based on user roles and permissions.
-10. **Data Storage and Retrieval:** Store and retrieve user information, business details, reviews, and ratings in a database or persistent storage.
+
+   
+7. **Business Search:** Enable users to search for businesses based on different criteria such as name, category, or address.
+
+   ![b3](https://github.com/Apache-ghost/Business_Review_Application/assets/125418589/a29ef8c3-79f7-4848-aefc-33400f421f0d)
+
+9. **Review Submission:** Allow users to submit reviews for businesses they have interacted with. This includes providing a rating (e.g., on a scale of 1 to 5 stars) and leaving a comment.
+
+   ![b4](https://github.com/Apache-ghost/Business_Review_Application/assets/125418589/7f0274d2-4798-4d6b-bdcf-0f36a3c324c8)
+
+10. **Add Business:** Allow users to add business .
+
+    ![b2](https://github.com/Apache-ghost/Business_Review_Application/assets/125418589/498fbd98-a555-4a21-b2fc-bff948493dca)
+
+12. **User Authentication and Authorization:** Ensure that only authenticated users can access certain functionalities, and restrict access to sensitive operations based on user roles and permissions.
+
+    
+13. **Data Storage and Retrieval:** Store and retrieve user information, business details, reviews, and ratings in a database or persistent storage.
 
 ## Getting Started
 
