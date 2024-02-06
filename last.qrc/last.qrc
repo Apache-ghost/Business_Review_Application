@@ -1,0 +1,44 @@
+<RCC>
+  <qresource prefix="images">
+    <file>BR.jpg</file>
+    <file>download.jpg</file>
+    <file>icons8_add_24px.png</file>
+    <file>icons8_database_26px_3.png</file>
+    <file>icons8_delete_bin_24px.png</file>
+    <file>icons8_download_26px.png</file>
+    <file>icons8_search_24px_3.png</file>
+    <file>icons8_update_left_rotation_24px.png</file>
+    <file>load.jpg</file>
+    <file>icons8_database_26px_2.png</file>
+    <file>Screenshot 2023-12-13 125133.png</file>
+    <file>Screenshot 2023-12-13 125122.png</file>
+    <file>Screenshot 2023-12-13 124504.png</file>
+    <file>Screenshot 2023-12-13 124222.png</file>
+    <file>Screenshot 2023-12-13 123844.png</file>
+    <file>Screenshot 2023-12-13 122254.png</file>
+    <file>Screenshot 2023-12-13 122747.png</file>
+    <file>Screenshot 2023-12-13 122908.png</file>
+    <file>Screenshot 2023-12-13 120648.png</file>
+    <file>Screenshot 2023-12-13 120614.png</file>
+    <file>1st image.png</file>
+    <file>Screenshot 2023-12-13 112643.png</file>
+    <file>Screenshot 2023-12-13 113328.png</file>
+    <file>Screenshot 2023-12-13 112521.png</file>
+    <file>bizname.png</file>
+    <file>Screenshot 2023-12-13 022500.png</file>
+    <file>Screenshot 2023-12-13 020604.png</file>
+    <file>Screenshot 2023-12-13 020134.png</file>
+    <file>downarrow.png</file>
+    <file>exit.png</file>
+    <file>Screenshot 2023-12-11 035412.png</file>
+    <file>1st image.png</file>
+    <file>facebook.png</file>
+    <file>linkedin.png</file>
+    <file>Screenshot 2023-12-09 201830.png</file>
+    <file>imageedit_13_9976801051.png</file>
+    <file>imageedit_8_8673748357.png</file>
+    <file>imageedit_5_5326030300.png</file>
+    <file>imageedit_3_4518851243.png</file>
+    <file>Untitled design.png</file>
+  </qresource>
+</RCC>

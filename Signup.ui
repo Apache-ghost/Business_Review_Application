@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>811</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color: rgb(0, 0, 0);</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>260</x>
+      <y>10</y>
+      <width>251</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-bottom-right-radius:10px;
+font: 75 14pt &quot;MS Shell Dlg 2&quot;;
+color: rgb(255, 255, 255);
+border-top-left-radius:10px;
+ background-color: rgb(0, 0, 127);
+</string>
+    </property>
+    <property name="text">
+     <string>Sign-Up </string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_2">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>70</y>
+      <width>151</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">
+font: 75 10pt &quot;MS Shell Dlg 2&quot;;
+color: rgb(255, 255, 255);
+background-color: rgb(0, 0, 255);
+border-bottom-left-radius:10px;</string>
+    </property>
+    <property name="text">
+     <string>Username:</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_3">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>150</y>
+      <width>151</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(0, 0, 255);
+font: 75 10pt &quot;MS Shell Dlg 2&quot;;
+color: rgb(255, 255, 255);
+border-bottom-left-radius:10px;</string>
+    </property>
+    <property name="text">
+     <string>Email:</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_4">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>230</y>
+      <width>151</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(0, 0, 255);
+font: 75 10pt &quot;MS Shell Dlg 2&quot;;
+color: rgb(255, 255, 255);
+border-bottom-left-radius:10px;</string>
+    </property>
+    <property name="text">
+     <string>Security_Question</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_5">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>310</y>
+      <width>151</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(0, 0, 255);
+font: 75 10pt &quot;MS Shell Dlg 2&quot;;
+color: rgb(255, 255, 255);
+border-bottom-left-radius:10px;</string>
+    </property>
+    <property name="text">
+     <string>Answer</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_6">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>390</y>
+      <width>151</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(0, 0, 255);
+font: 75 10pt &quot;MS Shell Dlg 2&quot;;
+color: rgb(255, 255, 255);
+border-bottom-left-radius:10px;</string>
+    </property>
+    <property name="text">
+     <string>PassWord:</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_7">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>470</y>
+      <width>151</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(0, 0, 255);
+font: 75 10pt &quot;MS Shell Dlg 2&quot;;
+color: rgb(255, 255, 255);
+border-bottom-left-radius:10px;</string>
+    </property>
+    <property name="text">
+     <string>ID</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="lineEdit">
+    <property name="geometry">
+     <rect>
+      <x>160</x>
+      <y>71</y>
+      <width>391</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-top-right-radius:10px;
+font: 75 9pt &quot;MS Shell Dlg 2&quot;;
+color: rgb(0, 0, 0);
+background-color: rgb(255, 255, 255);
+</string>
+    </property>
+    <property name="placeholderText">
+     <string>                                         username</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="lineEdit_2">
+    <property name="geometry">
+     <rect>
+      <x>160</x>
+      <y>150</y>
+      <width>391</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-top-right-radius:10px;
+font: 75 9pt &quot;MS Shell Dlg 2&quot;;
+color: rgb(0, 0, 0);
+background-color: rgb(255, 255, 255);</string>
+    </property>
+    <property name="placeholderText">
+     <string>                                            Email</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="lineEdit_3">
+    <property name="geometry">
+     <rect>
+      <x>160</x>
+      <y>230</y>
+      <width>391</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-top-right-radius:10px;
+font: 75 9pt &quot;MS Shell Dlg 2&quot;;
+color: rgb(0, 0, 0);
+background-color: rgb(255, 255, 255);
+</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="placeholderText">
+     <string>                                    Security_Question</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="lineEdit_4">
+    <property name="geometry">
+     <rect>
+      <x>160</x>
+      <y>310</y>
+      <width>391</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-top-right-radius:10px;
+font: 75 9pt &quot;MS Shell Dlg 2&quot;;
+color: rgb(0, 0, 0);
+background-color: rgb(255, 255, 255);
+</string>
+    </property>
+    <property name="placeholderText">
+     <string>                                          Answer</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="lineEdit_5">
+    <property name="geometry">
+     <rect>
+      <x>160</x>
+      <y>390</y>
+      <width>391</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-top-right-radius:10px;
+font: 75 9pt &quot;MS Shell Dlg 2&quot;;
+color: rgb(0, 0, 0);
+background-color: rgb(255, 255, 255);</string>
+    </property>
+    <property name="echoMode">
+     <enum>QLineEdit::Password</enum>
+    </property>
+    <property name="placeholderText">
+     <string>                                        PassWord</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="lineEdit_6">
+    <property name="geometry">
+     <rect>
+      <x>160</x>
+      <y>470</y>
+      <width>391</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-top-right-radius:10px;
+font: 75 9pt &quot;MS Shell Dlg 2&quot;;
+color: rgb(0, 0, 0);
+background-color: rgb(255, 255, 255);
+</string>
+    </property>
+    <property name="echoMode">
+     <enum>QLineEdit::Password</enum>
+    </property>
+    <property name="placeholderText">
+     <string>                                               ID</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton">
+    <property name="geometry">
+     <rect>
+      <x>140</x>
+      <y>520</y>
+      <width>93</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">font: 75 10pt &quot;MS Shell Dlg 2&quot;;
+color: rgb(255, 255, 255);
+background-color: rgb(0, 0, 127);</string>
+    </property>
+    <property name="text">
+     <string>Back</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_2">
+    <property name="geometry">
+     <rect>
+      <x>420</x>
+      <y>520</y>
+      <width>93</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">font: 75 10pt &quot;MS Shell Dlg 2&quot;;
+color:rgb(255, 255, 255);
+background-color: rgb(0, 0, 127);</string>
+    </property>
+    <property name="text">
+     <string>Sign-Up</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_8">
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>20</y>
+      <width>49</width>
+      <height>16</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>TextLabel</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
