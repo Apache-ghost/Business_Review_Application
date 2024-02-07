@@ -15,6 +15,7 @@ Welcome to the Business Review Application! This application allows users to exp
 
 1. **User Registration:** Users can create an account by providing their basic information such as username, email, and password.
 2. **User Login:** Authenticate users' credentials to allow them to log in to their accounts.
+3. **User Profile Management:** Allow users to view and update their profile information, such as us photo.
    
    ![b5](https://github.com/Apache-ghost/Business_Review_Application/assets/125418589/f4ecef3a-32a4-452a-a5f4-ddd24c69d37d)
 
@@ -36,9 +37,12 @@ Welcome to the Business Review Application! This application allows users to exp
     ![b2](https://github.com/Apache-ghost/Business_Review_Application/assets/125418589/498fbd98-a555-4a21-b2fc-bff948493dca)
 
 12. **User Authentication and Authorization:** Ensure that only authenticated users can access certain functionalities, and restrict access to sensitive operations based on user roles and permissions.
+13.  **Dashboard:** Ensure user has access to the dashboard
 
-    
-13. **Data Storage and Retrieval:** Store and retrieve user information, business details, reviews, and ratings in a database or persistent storage.
+![b6](https://github.com/Apache-ghost/Business_Review_Application/assets/125418589/151c7ca2-e499-40b3-aa42-12580506a937)
+
+
+14. **Data Storage and Retrieval:** Store and retrieve user information, business details, reviews, and ratings in a database or persistent storage.
 
 ## Getting Started
 
