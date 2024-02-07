@@ -1,0 +1,52 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>images/star (1).png</file>
+    <file>images/comment-medical.png</file>
+    <file>images/star.png</file>
+    <file>images/heart.png</file>
+    <file>images/star-comment-alt.png</file>
+    <file>images/camera-front.png</file>
+    <file>images/camera.png</file>
+    <file>images/ced.png</file>
+    <file>images/sort.png</file>
+    <file>images/Screenshot 2024-01-21 191126.png</file>
+    <file>images/setting.png</file>
+    <file>images/refresh-page-option.png</file>
+    <file>images/minimize.png</file>
+    <file>images/call.png</file>
+    <file>images/phone-call (1).png</file>
+    <file>images/menu (1).png</file>
+    <file>images/lic.png</file>
+    <file>images/license.png</file>
+    <file>images/insurance.png</file>
+    <file>images/phone-call.png</file>
+    <file>images/information.png</file>
+    <file>images/instagram.png</file>
+    <file>images/rate (1).png</file>
+    <file>images/twitter.png</file>
+    <file>images/logout (1).png</file>
+    <file>images/add-user.png</file>
+    <file>images/down-filled-triangular-arrow.png</file>
+    <file>images/arrow.png</file>
+    <file>images/emergency-exit.png</file>
+    <file>images/facebook.png</file>
+    <file>images/linkedin.png</file>
+    <file>images/good-review (1).png</file>
+    <file>images/good-review.png</file>
+    <file>images/menu.png</file>
+    <file>images/left-arrow.png</file>
+    <file>images/rating.png</file>
+    <file>images/search (1).png</file>
+    <file>images/bell.png</file>
+    <file>images/user (1).png</file>
+    <file>images/close (1).png</file>
+    <file>images/close (2).png</file>
+    <file>images/close.png</file>
+    <file>images/expand (1).png</file>
+    <file>images/expand (2).png</file>
+    <file>images/expand.png</file>
+    <file>images/shrink (1).png</file>
+    <file>images/shrink (2).png</file>
+    <file>images/shrink.png</file>
+  </qresource>
+</RCC>
